@@ -6,7 +6,7 @@ cffi==1.14.4
 chardet==4.0.0
 click==7.1.2
 cycler==0.10.0
-dash==1.18.1
+dash==2.15.0
 dash-core-components==1.14.1
 dash-html-components==1.1.1
 dash-renderer==1.8.3
